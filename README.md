@@ -180,6 +180,6 @@ A todos os testadores que ajudaram a identificar bugs
 À comunidade de código aberto pelas inspirações
 
 # 📞 Contato
-Guilherme Oliveira - @seu-twitter - gaoliveira2077@gmail.com
+Guilherme Oliveira - gaoliveira2077@gmail.com
 
 Space Defender - Futuristic Edition © 2024. Todos os direitos reservados.
